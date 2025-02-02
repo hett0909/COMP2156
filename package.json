@@ -1,0 +1,20 @@
+{
+  "name": "comp2156",
+  "version": "1.0.0",
+  "description": "\"#### COMP2156 - Developer Operations\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Warning: No tests created yet.\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hett0909/COMP2156.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hett0909/COMP2156/issues"
+  },
+  "homepage": "https://github.com/hett0909/COMP2156#readme"
+}
