@@ -1,0 +1,26 @@
+/* index.css */
+
+/* Reset default margin and padding for all elements */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Set global body styles */
+body {
+  font-family: 'Arial', sans-serif;
+  background-color: #f0f0f0; /* Soft background color */
+  color: #333; /* Default text color */
+}
+
+/* Add some smooth scrolling */
+html {
+  scroll-behavior: smooth;
+}
+
+#root {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
